@@ -1,9 +1,8 @@
+<img src="https://github.com/OscarMURA/OscarMURA/blob/main/assets/line-neon.gif" width="100%">
 
-<div id="header" align="center">
-  ‎ 
-  <h1 align="center"><b>Hi there 👋, I´m Oscar Muñoz </b></h1>
-  
-</div>
+<img src="https://github.com/OscarMURA/OscarMURA/blob/main/assets/banner-header.gif">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+Oscar+:D;I'm+18+years-old;I'm+from+Colombia;Welcome+to+my+profile+:D!)
 
 
 <div id="header" align="center">
@@ -25,16 +24,19 @@
 </div>
 
 #
-
-<div id="header" align="center">
-  ‎ 
-  <h2><b> My statistics 🚀</b></h2>
-  ‎ ¿<img src="https://github-readme-streak-stats.herokuapp.com/?user=OscarMURA&theme=tokyonight" alt="mystreak"/>?
-    
-¿<img src="https://profile-counter.glitch.me/OscarMURA/count.svg">?
+<div align="center">  
+  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OscarMURA&show_icons=true&count_private=true&hide_border=true&title_color=F776C0&icon_color=02D9F7FF&text_color=6594E2&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+  
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarMURA&layout=compact&hide_border=true&title_color=F776C0&text_color=6594E2&bg_color=0d1117" />
 </div>
 
+<p align="center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=OscarMURA&theme=tokyonight_duo&hide_border=true&title_color=F776C0"
+</p>
+<p align="center">
+<img src="https://profile-counter.glitch.me/OscarMURA/count.svg">
+</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/OscarMURA.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
-
-
+<img src="https://github.com/OscarMURA/OscarMURA/blob/main/assets/banner-footer.gif">
+<img src="https://github.com/OscarMURA/OscarMURA/blob/main/assets/line-neon.gif" width="100%">
