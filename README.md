@@ -37,5 +37,4 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/OscarMURA.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
