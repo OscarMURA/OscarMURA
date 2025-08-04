@@ -14,7 +14,7 @@
 <div>
   <h3>
     <li> 🔭 I’m currently working on improving myself<br>
-    <li> 🌱 I’m currently learning Scala, but I have one year of Java experience<br>
+    <li> 🌱 I’m currently learning DevOps and NextJs, but I have 2.5 year of Java experience<br>
     <li> 👯 I’m looking to collaborate on Java Projects<br>
     <li> 🤔 Sometimes I have doubts about life, but it's normal.<br>
     <li> 💬 Ask me about the art, I like it very much<br>
