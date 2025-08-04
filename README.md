@@ -2,7 +2,7 @@
 
 <img src="https://github.com/OscarMURA/OscarMURA/blob/main/assets/banner-header.gif">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+Oscar+:D;I'm+19+years-old;I'm+from+Pitalito-Huila-Colombia;Welcome+to+my+profile+:D!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+Oscar+:D;I'm+20+years-old;I'm+from+Pitalito-Huila-Colombia;Welcome+to+my+profile+:D!)
 
 
 <div id="header" align="center">
