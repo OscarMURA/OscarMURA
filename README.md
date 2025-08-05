@@ -24,83 +24,28 @@
 </div>
 
 
-<table align="center" border="1" cellpadding="12" cellspacing="0">
-  <tr>
-    <th>Backend</th>
-    <th>Tools</th>
-    <th>Frontend</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <!-- Django -->
-      <img src="https://img.icons8.com/color/48/4a90e2/django.png" alt="Django" width="48"/>
-      <!-- Node.js -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48"/>
-       <!-- Spring Boot -->
-      <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="48"/>
-    </td>
-    <td align="center">
-      <!-- VSCode -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" width="48"/>
-      <!-- Postman -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="48"/>
-      <!-- Azure -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="48"/>
-      <!-- Docker -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="48"/>
-      <!-- Git -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="48"/>
-      <!-- Jira -->
-      <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" width="48"/>
-      <!-- Jupyter -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48"/>
-    </td>
-    <td align="center">
-      <!-- React -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="48"/>
-      <!-- HTML5 -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="48"/>
-      <!-- CSS3 -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="48"/>
-      <!-- Tailwind CSS -->
-      <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="Tailwind CSS" width="48"/>
-      <!-- Vite -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" alt="Vite" width="48"/>
-    </td>
-  </tr>
-  
-</table>
+## 🚀 Tecnologías
 
-<table align="center" border="1" cellpadding="12" cellspacing="0">
-<tr>
-    <th>Database</th>
-    <th>Lenguajes</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <!-- MongoDB -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48"/>
-      <!-- PostgreSQL -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48"/>
-      <!-- Oracle -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="48"/>
-      <!-- SQL -->
-      <img src="https://img.icons8.com/ios-filled/50/4a90e2/database.png" alt="SQL" width="48"/>
-    </td>
-    <td align="center">
-      <!-- Python -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="48"/>
-      <!-- Java -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="48"/>
-      <!-- JavaScript -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="48"/>
-      <!-- TypeScript -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="48"/>
-      <!-- Scala -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" alt="Scala" width="48"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+**Primer tabla**
+
+| Backend | Tools | Frontend |
+|:-------:|:-----:|:--------:|
+| ![Django](https://img.shields.io/badge/Django-%234A90E2?logo=django&logoColor=white)<br/>![Node.js](https://img.shields.io/badge/Node.js-%2343853D?logo=node.js&logoColor=white)<br/>![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?logo=spring&logoColor=white) | ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC?logo=visualstudiocode&logoColor=white)<br/>![Postman](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white)<br/>![Azure](https://img.shields.io/badge/Azure-%230072C6?logo=microsoftazure&logoColor=white)<br/>![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white)<br/>![Git](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white)<br/>![Jira](https://img.shields.io/badge/Jira-%23057AFE?logo=jira&logoColor=white)<br/>![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626?logo=jupyter&logoColor=white) | ![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black)<br/>![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white)<br/>![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white)<br/>![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?logo=tailwind-css&logoColor=white)<br/>![Vite](https://img.shields.io/badge/Vite-%23F9A825?logo=vite&logoColor=black) |
+
+</div>
+
+<div align="center">
+
+**Segunda tabla**
+
+| Bases de datos | Lenguajes |
+|:--------------:|:---------:|
+| ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white)<br/>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?logo=postgresql&logoColor=white)<br/>![Oracle](https://img.shields.io/badge/Oracle-%23F80000?logo=oracle&logoColor=white)<br/>![SQL](https://img.shields.io/badge/SQL-%234A90E2?logo=database&logoColor=white) | ![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)<br/>![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=java&logoColor=white)<br/>![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)<br/>![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white)<br/>![Scala](https://img.shields.io/badge/Scala-%23DC322F?logo=scala&logoColor=white) |
+
+</div>
+
 
 <div align="center">  
   
