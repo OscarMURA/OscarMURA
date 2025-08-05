@@ -22,12 +22,85 @@
   </h3>
    ‎ 
 </div>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px" /></p>
 
 
+<table align="center" border="1" cellpadding="12" cellspacing="0">
+  <tr>
+    <th>Backend</th>
+    <th>Tools</th>
+    <th>Frontend</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- Django -->
+      <img src="https://img.icons8.com/color/48/4a90e2/django.png" alt="Django" width="48"/>
+      <!-- Node.js -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48"/>
+       <!-- Spring Boot -->
+      <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="48"/>
+    </td>
+    <td align="center">
+      <!-- VSCode -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" width="48"/>
+      <!-- Postman -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="48"/>
+      <!-- Azure -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="48"/>
+      <!-- Docker -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="48"/>
+      <!-- Git -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="48"/>
+      <!-- Jira -->
+      <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" width="48"/>
+      <!-- Jupyter -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48"/>
+    </td>
+    <td align="center">
+      <!-- React -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="48"/>
+      <!-- HTML5 -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="48"/>
+      <!-- CSS3 -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="48"/>
+      <!-- Tailwind CSS -->
+      <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="Tailwind CSS" width="48"/>
+      <!-- Vite -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" alt="Vite" width="48"/>
+    </td>
+  </tr>
+  
+</table>
 
-
+<table align="center" border="1" cellpadding="12" cellspacing="0">
+<tr>
+    <th>Database</th>
+    <th>Lenguajes</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- MongoDB -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48"/>
+      <!-- PostgreSQL -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48"/>
+      <!-- Oracle -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="48"/>
+      <!-- SQL -->
+      <img src="https://img.icons8.com/ios-filled/50/4a90e2/database.png" alt="SQL" width="48"/>
+    </td>
+    <td align="center">
+      <!-- Python -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="48"/>
+      <!-- Java -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="48"/>
+      <!-- JavaScript -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="48"/>
+      <!-- TypeScript -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="48"/>
+      <!-- Scala -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" alt="Scala" width="48"/>
+    </td>
+  </tr>
+</table>
 
 <div align="center">  
   
