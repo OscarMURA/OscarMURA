@@ -24,7 +24,7 @@
 </div>
 
 
-## 🚀 Tecnologías
+## 🚀 Skill
 
 <div align="center">
 
