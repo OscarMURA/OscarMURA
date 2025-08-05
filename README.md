@@ -28,7 +28,6 @@
 
 <div align="center">
 
-**Primer tabla**
 
 | Backend | Tools | Frontend |
 |:-------:|:-----:|:--------:|
@@ -38,9 +37,8 @@
 
 <div align="center">
 
-**Segunda tabla**
 
-| Bases de datos | Lenguajes |
+| Database | Languages |
 |:--------------:|:---------:|
 | ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white)<br/>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?logo=postgresql&logoColor=white)<br/>![Oracle](https://img.shields.io/badge/Oracle-%23F80000?logo=oracle&logoColor=white)<br/>![SQL](https://img.shields.io/badge/SQL-%234A90E2?logo=database&logoColor=white) | ![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)<br/>![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=java&logoColor=white)<br/>![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)<br/>![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white)<br/>![Scala](https://img.shields.io/badge/Scala-%23DC322F?logo=scala&logoColor=white) |
 
